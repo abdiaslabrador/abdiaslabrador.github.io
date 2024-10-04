@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Console";
+}
+
+.header {
+  background-color: #2268ab;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.email-header {
+  font-size: 20px;
+}
+
+.flex-container-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.card {
+  margin: 0 auto;
+  width: min-content;
+  margin-bottom: 50px;
+}
+
+.card-title {
+  text-align: center;
+  font-family: Fantasy;
+}
+
+.card-body {
+  padding: 0px 10px 10px 20px;
+}
+
+.footer {
+  background-color: #2268ab;
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
+}
+
+.sword-logo{
+    height:50px;
+    width:50px;
+}
+.email-logo{
+    height:15px;
+    width:15px;
+}
